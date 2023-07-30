@@ -7,10 +7,12 @@ This mini-project contains my implementation of pixelation post processing as we
 
 ## Pixelation 
 *(this is a full screen render feature, so you can enable/disable it in the renderer data asset)*
+
 This one is preaty basic pixelation effect that does multiply->floor->divide of the screen position node, which is then used as a UV coordinate to the URP Sample Buffer node. This one is inspired by [Ben Cloward's video](https://www.youtube.com/watch?v=x95xhWCxBb4). Although as parameter in full screen material I use the target resolution's height (no need to worry about the width, it is being calculated depending on the aspect ratio of your screen). This means that if you set this parameter for example to 3, your image will be 3 giant pixels high.
 
 ## Outlines
 *(this is a full screen render feature, so you can enable/disable it in the renderer data asset)*
+
 This one is after the [Daniel Ilett's post](https://danielilett.com/2023-03-21-tut7-1-fullscreen-outlines/). Nothing else to add really. Although it has  
 
 ## Toon
