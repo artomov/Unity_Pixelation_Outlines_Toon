@@ -41,19 +41,18 @@ Material:
     - _Bar: 1
     - _Baz: 0
     - _Foo: 0.06
-    - _FresnelCorrectionPower: 1
     - _IsActive: 1
     - _IsActive_color: 0
     - _IsActive_depth: 1
     - _IsActive_normals: 1
     - _Offset_px: 1
     - _Offset_px_color: 2
-    - _Offset_px_depth: 3
+    - _Offset_px_depth: 2
     - _Offset_px_normals: 2
     - _Offset_px_normals_1: 1
     - _StepControl: 2.67
-    - _StepControl_color: -88
-    - _StepControl_depth: 3.4
+    - _StepControl_color: 1
+    - _StepControl_depth: 2
     - _StepControl_normals: 1
     - _View_Normal_ratio_modifier_strength: 0
     - _View_to_normal_ratio_modifier: 0
