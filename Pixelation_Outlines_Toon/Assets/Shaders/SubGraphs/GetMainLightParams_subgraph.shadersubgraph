@@ -6,6 +6,12 @@
     "m_Keywords": [
         {
             "m_Id": "71a6ef52229846608daeffba8545ac7c"
+        },
+        {
+            "m_Id": "30173c2ec1b34472a1255c084e6b4a23"
+        },
+        {
+            "m_Id": "456a815063a447118861e1037edbd4aa"
         }
     ],
     "m_Dropdowns": [],
@@ -162,6 +168,31 @@
 }
 
 {
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.ShaderKeyword",
+    "m_ObjectId": "30173c2ec1b34472a1255c084e6b4a23",
+    "m_Guid": {
+        "m_GuidSerialized": "18d1dba1-4a38-436d-a8fc-29506cf81a41"
+    },
+    "m_Name": "Main_Light_Shadows_Cascade",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "Main_Light_Shadows_Cascade",
+    "m_DefaultReferenceName": "_MAIN_LIGHT_SHADOWS_CASCADE",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_DismissedVersion": 0,
+    "m_KeywordType": 0,
+    "m_KeywordDefinition": 1,
+    "m_KeywordScope": 1,
+    "m_KeywordStages": 63,
+    "m_Entries": [],
+    "m_Value": 1,
+    "m_IsEditable": true
+}
+
+{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
     "m_ObjectId": "3aa72433fb6d4375a93d77aeef1758ba",
@@ -205,6 +236,31 @@
         "z": 0.0
     },
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.ShaderKeyword",
+    "m_ObjectId": "456a815063a447118861e1037edbd4aa",
+    "m_Guid": {
+        "m_GuidSerialized": "16ea4d41-469d-45b4-ab28-943e28ee3209"
+    },
+    "m_Name": "Shadows_Soft",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "Shadows_Soft",
+    "m_DefaultReferenceName": "_SHADOWS_SOFT",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_DismissedVersion": 0,
+    "m_KeywordType": 0,
+    "m_KeywordDefinition": 1,
+    "m_KeywordScope": 1,
+    "m_KeywordStages": 63,
+    "m_Entries": [],
+    "m_Value": 1,
+    "m_IsEditable": true
 }
 
 {
@@ -326,6 +382,12 @@
     "m_ChildObjectList": [
         {
             "m_Id": "71a6ef52229846608daeffba8545ac7c"
+        },
+        {
+            "m_Id": "30173c2ec1b34472a1255c084e6b4a23"
+        },
+        {
+            "m_Id": "456a815063a447118861e1037edbd4aa"
         }
     ]
 }
